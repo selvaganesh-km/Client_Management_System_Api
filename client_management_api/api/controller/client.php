@@ -1,5 +1,5 @@
 <?php
-// Include Deals Model
+// Include Deals Model related functionality
 require_once "model/client.php";
 require_once "model/login.php";
 class CLIENT extends CLIENTMODEL
